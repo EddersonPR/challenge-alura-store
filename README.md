@@ -56,7 +56,7 @@ El análisis se realiza mediante técnicas de **exploración de datos (EDA)**, *
 ## 💾 Storytelling
 
 📄 **Informe PDF:**  
-[📑 Alura Store Storytelling](https://github.com/EddersonPR/challenge-alura-store/blob/main/AluraStore_Storytelling.pdf)
+[📑 Alura Store Storytelling](https://github.com/EddersonPR/challenge-alura-store/blob/main/Storytelling/Storytelling%20Alura%20Store.pdf)
 
 > El storytelling presenta los hallazgos clave del análisis y la justificación de la recomendación final.
 
