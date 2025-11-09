@@ -1,4 +1,4 @@
-# 🏪 Alura Store
+# 🏪 Alura Store Latam
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -8,7 +8,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Análisis de datos de **Alura Store**, un proyecto de análisis exploratorio y visualización de datos enfocado en el rendimiento de las tiendas de la cadena.
+Análisis de datos de **Alura Store Latam**, un proyecto de análisis exploratorio y visualización de datos enfocado en el rendimiento de las tiendas de la cadena.
 
 ---
 
@@ -23,7 +23,7 @@ Análisis de datos de **Alura Store**, un proyecto de análisis exploratorio y v
 ---
 
 ## 📖 Descripción
-**Alura Store** es una cadena de tiendas que busca optimizar su rendimiento comercial.  
+**Alura Store Latam** es una cadena de tiendas que busca optimizar su rendimiento comercial.  
 En este proyecto se analizan los **datos de ventas, rendimiento y reseñas de las 4 tiendas** de la marca para **identificar la menos eficiente** y **proponer una recomendación de venta**.
 
 El análisis se realiza mediante técnicas de **exploración de datos (EDA)**, **visualización** y **análisis descriptivo** utilizando Python y sus principales librerías para ciencia de datos.
